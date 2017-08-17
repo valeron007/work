@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a12a8646-4a5d-48fc-a611-a95400b02287" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/valeron.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/work.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/File/Logger.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/info.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/json_index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/send_json.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/error.txt" />
-    </list>
+    <list default="true" id="a12a8646-4a5d-48fc-a611-a95400b02287" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -255,12 +241,12 @@
       <workItem from="1502393684572" duration="6164000" />
       <workItem from="1502536037493" duration="2128000" />
       <workItem from="1502653322541" duration="3644000" />
-      <workItem from="1502919666213" duration="4595000" />
+      <workItem from="1502919666213" duration="5195000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61119000" />
+    <option name="totallyTimeSpent" value="61719000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
